@@ -1,0 +1,24 @@
+body{
+    width:100px;
+}
+
+.divs{
+    width: 50px;
+    height:50px;
+    background-color:rgb(136, 110, 110);
+    grid-row:2;
+    
+    
+    
+    
+
+}
+
+.container{
+    display:grid;
+
+}
+
+.hovering{
+    background-color:black;
+}
